@@ -1,0 +1,10 @@
+.vscode/launch.json
+06-starting-project/node_modules/*
+06-starting-project/node_modules/
+06-starting-project/node_modules
+07-debug-app/node_modules/*
+07-debug-app/node_modules/
+07-debug-app/node_modules
+08-user-age-app/app_modules/*
+08-user-age-app/app_modules/
+08-user-age-app/app_modules
